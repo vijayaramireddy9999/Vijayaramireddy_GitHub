@@ -50,34 +50,7 @@
 
 ---
 
-## 💻 Projects
 
-### 1. College Department Website
-- **Description:** Full-stack website for managing college department activities.
-- **Features:** Login/Signup, CRUD for students & staff, Admin panel, Dynamic data management.
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- **Source Code:** [GitHub](https://github.com/vijayaramireddy9999/college-department)
-- **Live Demo:** [Link](#)
-- **Screenshot:** ![Project Screenshot](assets/college-department.png)
-
-### 2. E-Commerce Store
-- **Description:** Complete online shopping platform with cart, payment, and order management.
-- **Features:** Product listing, Cart functionality, Payment integration, Admin dashboard.
-- **Tech Stack:** React, Redux, Node.js, Express, MongoDB
-- **Source Code:** [GitHub](https://github.com/vijayaramireddy9999/ecommerce)
-- **Live Demo:** [Link](#)
-- **Screenshot:** ![Project Screenshot](assets/ecommerce.png)
-
-### 3. Personal Portfolio Website
-- **Description:** My portfolio to showcase projects, skills, and achievements.
-- **Tech Stack:** HTML, CSS, JavaScript, React
-- **Source Code:** [GitHub](https://github.com/vijayaramireddy9999/portfolio)
-- **Live Demo:** [Link](#)
-- **Screenshot:** ![Project Screenshot](assets/portfolio.png)
-
-*(You can add more projects in similar format)*
-
----
 
 ## 📄 Resume
 [Download Resume](resume.pdf)
